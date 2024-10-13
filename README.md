@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://student.deepracer.com/static/media/2024_world_firstrace_student.49456e799ed44657bac8.svg" alt="AWS DeepRacer First Race 2024"/>
+</p>
+
+
 # AWS DeepRacer Reinforcement Learning Models
 
 This repository contains a collection of **trained reinforcement learning models** for AWS DeepRacer, an autonomous 1/18th scale race car that is capable of driving itself around a track using machine learning.
@@ -15,3 +20,10 @@ All models and agents in this repository use the **Proximal Policy Optimization 
 ## AWS AI/ML Scholarship by Udacity
 
 These models were trained as part of the **AWS AI/ML Scholarship Program** by **Udacity**. Upon achieving a lap time of under 2 minutes and completing other scholarship modules, participants are eligible to apply for the **AI Programming with Python Nanodegree** program.
+
+## IMP LINKS
+https://emc.udacity.com/c/aws-esperanza/catalog/Bh8dTV4FgDfxsqEI/i/nd/nd089
+https://emc.udacity.com/c/aws-esperanza/me
+https://student.deepracer.com/home
+https://aws.amazon.com/deepracer/racing-tips/
+
