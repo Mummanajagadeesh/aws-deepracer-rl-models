@@ -19,6 +19,8 @@ All models and agents in this repository use the **Proximal Policy Optimization 
 
 ## IMP LINKS
 
+https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
+
 https://emc.udacity.com/c/aws-esperanza/catalog/Bh8dTV4FgDfxsqEI/i/nd/nd089
 
 https://emc.udacity.com/c/aws-esperanza/me
