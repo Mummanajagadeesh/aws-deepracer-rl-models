@@ -17,10 +17,6 @@ The car's driving decisions are made solely based on the algorithms provided to 
 
 All models and agents in this repository use the **Proximal Policy Optimization (PPO)** algorithm. PPO is a popular reinforcement learning algorithm that works by balancing exploration (trying new actions) and exploitation (choosing the best-known actions) to optimize the car's behavior over time. It updates the policy in a way that ensures stability and improves training efficiency, making it a powerful tool for continuous control tasks like autonomous driving.
 
-## AWS AI/ML Scholarship by Udacity
-
-These models were trained as part of the **AWS AI/ML Scholarship Program** by **Udacity**. Upon achieving a lap time of under 2 minutes and completing other scholarship modules, participants are eligible to apply for the **AI Programming with Python Nanodegree** program.
-
 ## IMP LINKS
 
 https://emc.udacity.com/c/aws-esperanza/catalog/Bh8dTV4FgDfxsqEI/i/nd/nd089
