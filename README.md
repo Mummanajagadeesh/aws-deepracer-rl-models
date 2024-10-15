@@ -19,6 +19,8 @@ All models and agents in this repository use the **Proximal Policy Optimization 
 
 ## IMP LINKS
 
+chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://cdn.sanity.io/files/tlr8oxjg/production/85a57092f82acfa28186b72fd7017ce61a9cb9f6.pdf?utm_campaign=acq_100_auto_ndxxx_syllabus_global&utm_source=blueshift&utm_medium=email&utm_content=acq_100_auto_ndxxx_auto-syllabus-updated-1_global&bsft_clkid=f3ae0b7c-912c-4081-82d9-0752bfb8ae8d&bsft_uid=765ae608-91eb-4e2e-b413-a26987a76326&bsft_mid=7255381a-3ef8-4c5f-9486-a52c62e9ff69&bsft_eid=c83a107a-3d0c-4569-7d43-6310e1357f42&bsft_txnid=059e8b0d-a7c3-4f25-8f20-0d49c3592ffd&bsft_mime_type=html&bsft_ek=2024-10-14T05%3A21%3A11Z&bsft_aaid=affd8710-61ff-4001-baca-1d4a7303381d&bsft_lx=2&bsft_tv=20
+
 https://www.udacity.com/course/ai-programming-python-nanodegree--nd089
 
 https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
